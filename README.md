@@ -1,4 +1,4 @@
-# Data Modeling - ERD for a Taxi Company
+# Data Modeling - ERD for A Taxi Company
 
 
 <h2>Project Description</h2>
